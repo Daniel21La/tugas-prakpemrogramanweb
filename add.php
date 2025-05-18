@@ -100,12 +100,12 @@
       <ul class="nav nav-pills flex-column mb-auto">
         <li class="nav-item">
           <a href="read.php" class="nav-link active text-white">
-            <i class="bi bi-table"></i> Mahasiswa
+            <i class="bi bi-table me-2"></i> Mahasiswa
           </a>
         </li>
         <li>
           <a href="read2.php" class="nav-link text-white">
-            <i class="bi bi-table"></i> Dosen
+            <i class="bi bi-table me-2"></i> Dosen
           </a>
         </li>
       </ul>
