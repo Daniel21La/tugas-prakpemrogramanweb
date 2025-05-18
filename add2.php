@@ -39,10 +39,6 @@
       z-index: 1;
     }
 
-    .sidebar .fs-4 {
-      font-weight: bold;
-    }
-
     .main-content {
       flex-grow: 1;
       background: url('Digital business image with graphs and diagrams….jpeg') no-repeat center center;
@@ -86,14 +82,14 @@
       </a>
       <hr>
       <ul class="nav nav-pills flex-column mb-auto">
-        <li>
+        <li class="nav-item">
           <a href="read.php" class="nav-link text-white">
             <i class="bi bi-table me-2"></i> Mahasiswa
           </a>
         </li>
-        <li>
+        <li class="nav-item">
           <a href="read2.php" class="nav-link active text-white" aria-current="page">
-            <i class="bi bi-person-badge-fill me-2"></i> Dosen
+            <i class="bi bi-table me-2"></i> Dosen
           </a>
         </li>
       </ul>
